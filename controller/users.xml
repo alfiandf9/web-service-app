@@ -1,0 +1,37 @@
+<users>
+    <user>
+        <id>1</id>
+        <email>papuani@gmail.com</email>
+        <name>Papuani</name>
+        <gender>Perempuan</gender>
+        <address>Jayapura</address>
+    </user>
+    <user>
+        <id>2</id>
+        <email>kaka@gmail.com</email>
+        <name>Kaka</name>
+        <gender>Laki-laki</gender>
+        <address>Jakarta</address>
+    </user>
+    <user>
+        <id>3</id>
+        <email>koko@gmail.com</email>
+        <name>Koko</name>
+        <gender>Laki-laki</gender>
+        <address>Bali</address>
+    </user>
+    <user>
+        <id>4</id>
+        <email>keke@gmail.com</email>
+        <name>Keke</name>
+        <gender>Perempuan</gender>
+        <address>Aceh</address>
+    </user>
+    <user>
+        <id>5</id>
+        <email>kiki@gmail.com</email>
+        <name>Kiki</name>
+        <gender>Laki-laki</gender>
+        <address>Garut</address>
+    </user>
+</users>
